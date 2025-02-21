@@ -1,6 +1,11 @@
 {
   "dependencies": {
-    "@ant-design/v5-patch-for-react-19": "^1.0.3"
     "react-tabs": "^6.1.0"
+
+
+
+
+
+    
   }
 }
