@@ -73,6 +73,8 @@ const WeatherComponent = ({ cityCode }) => {
   );
 };
 
+
+
 function App() {
   const [city, setCity] = useState('130000'); // 東京の初期コード
   const handleChange = (event) => {
